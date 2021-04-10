@@ -3,4 +3,6 @@ A Google keeper clone
 Created with CodeSandbox
 
 ## Demo :
-Link : wzzn7.csb.app/
+Link : https://wzzn7.csb.app/
+
+reference : Angela Yu course
